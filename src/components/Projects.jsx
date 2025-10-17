@@ -55,9 +55,6 @@ export default function Projects() {
             })}
           </div>
         </div>
-        <div className="mt-6">
-          <Link to="/projects" className="underline" style={{color:'var(--neutral-ink)'}}>View all projects</Link>
-        </div>
       </div>
     </section>
   );
